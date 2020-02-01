@@ -63,9 +63,5 @@
   metrics = ["IoU", "MCC", "QoD"]
 
   # Optimizer, cf https://pytorch.org/docs/stable/optim.html
-  optimizer = {name="Adam", lr=0.0001}
-
-
-[auth]
-  pg = "host=localhost dbname=rsp user=rsp password=xxxx"
+  #optimizer = {name="Adam", lr=0.0001}
 ```

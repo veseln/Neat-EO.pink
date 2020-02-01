@@ -1,0 +1,5 @@
+include LICENSE
+include requirements.txt
+include neat_eo/web_ui/compare.html
+include neat_eo/web_ui/leaflet.html
+recursive-include data *

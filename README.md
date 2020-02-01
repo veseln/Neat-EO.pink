@@ -27,7 +27,7 @@ Main Features:
 
 
 
-<img alt="Draw me Neat-EO.pink" src="https://raw.githubusercontent.com/datapink/robosat.pink/master/docs/img/readme/draw_me_robosat_pink.png" />
+<img alt="Draw me Neat-EO.pink" src="https://raw.githubusercontent.com/datapink/neat-eo.pink/master/docs/img/readme/draw_me_neat_eo.png" />
 
 
  
@@ -56,10 +56,7 @@ Documentation:
 - <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-info">`neo info`</a> Print Neat-EO.pink version informations
 
 ### Presentations slides:
-  - <a href="http://www.datapink.com/presentations/2019-sotm.pdf">@SOTM 2019</a>
-  - <a href="http://www.datapink.com/presentations/2019-foss4g-cv.pdf">@FOSS4G 2019</a>
-  - <a href="http://www.datapink.com/presentations/2019-poss.pdf">@POSS 2019</a>
-
+  - <a href="http://www.datapink.com/presentations/2020-fosdem.pdf">@FOSDEM 2020</a>
 
 
 
@@ -106,7 +103,7 @@ Architecture:
 
 Neat-EO.pink use cherry-picked Open Source libs among Deep Learning, Computer Vision and GIS stacks.
 
-<img alt="Stacks" src="https://raw.githubusercontent.com/datapink/robosat.pink/master/docs/img/readme/stacks.png" />
+<img alt="Stacks" src="https://raw.githubusercontent.com/datapink/Neat-EO.pink/master/docs/img/readme/stacks.png" />
 
 
 

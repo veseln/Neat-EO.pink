@@ -34,10 +34,10 @@ Main Features:
 Documentation:
 --------------
 ### Tutorial:
-- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/101.md">Learn to use RoboSat.pink, in a couple of hours</a>
+- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/101.md">Learn to use Neat-EO.pink, in a couple of hours</a>
 
 ### Config file:
-- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/config.md">RoboSat.pink configuration file</a>
+- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/config.md">Neat-EO.pink configuration file</a>
 
 ### Tools:
 
@@ -53,7 +53,7 @@ Documentation:
 - <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-predict">`neo predict`</a> Predict masks, from given inputs and an already trained model
 - <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-compare">`neo compare`</a> Compute composite images and/or metrics to compare several XYZ dirs
 - <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-vectorize">`neo vectorize`</a> Extract simplified GeoJSON features from segmentation masks
-- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-info">`neo info`</a> Print RoboSat.pink version informations
+- <a href="https://github.com/datapink/neat-eo.pink/blob/master/docs/tools.md#neo-info">`neo info`</a> Print Neat-EO.pink version informations
 
 ### Presentations slides:
   - <a href="http://www.datapink.com/presentations/2019-sotm.pdf">@SOTM 2019</a>
@@ -70,15 +70,15 @@ Installs:
 
 ### With PIP:
 ```
-pip3 install RoboSat.pink
+pip3 install Neat-EO.pink
 ```
 
 ### With Ubuntu 19.10, from scratch:
 
 ```
-# RoboSat.pink [mandatory]
+# Neat-EO.pink [mandatory]
 sudo sh -c "apt update && apt install -y build-essential python3-pip"
-pip3 install RoboSat.pink && export PATH=$PATH:~/.local/bin
+pip3 install Neat-EO.pink && export PATH=$PATH:~/.local/bin
 
 # NVIDIA GPU Drivers [mandatory]
 wget http://us.download.nvidia.com/XFree86/Linux-x86_64/435.21/NVIDIA-Linux-x86_64-435.21.run
@@ -95,7 +95,7 @@ sudo apt install -y apache2 && sudo ln -s ~ /var/www/html/neo
 ### NOTAS: 
 - Requires: Python 3.6 or 3.7
 - GPU with VRAM >= 8Go is mandatory
-- To test RoboSat.pink install, launch in a new terminal: `rsp info`
+- To test Neat-EO.pink install, launch in a new terminal: `rsp info`
 - If needed, to remove pre-existing Nouveau driver: ```sudo sh -c "echo blacklist nouveau > /etc/modprobe.d/blacklist-nvidia-nouveau.conf && update-initramfs -u && reboot"```
 
 
@@ -145,14 +145,14 @@ Contributions and Services:
 
 - If you want a new feature, but don't want to implement it, <a href="http://datapink.com">DataPink</a> provide core-dev services.
 
-- Expertise, assistance and training on RoboSat.pink are also provided by <a href="http://datapink.com">DataPink</a>.
+- Expertise, assistance and training on Neat-EO.pink are also provided by <a href="http://datapink.com">DataPink</a>.
 
 - And if you want to support the whole project, because it means for your own business, funding is also welcome.
 
 
 ### Requests for funding:
 
-We've already identified several new features and research papers able to improve again RoboSat.pink,
+We've already identified several new features and research papers able to improve again Neat-EO.pink,
 your funding would make a difference to implement them on a coming release:
 
 - Increase (again) prediction accuracy :

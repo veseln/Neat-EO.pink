@@ -27,7 +27,7 @@ class Lovasz(nn.Module):
 
             for mask, input_class, tile_weight in zip(masks.view(N, -1), inputs_class.view(N, -1), tiles_weights):
 
-                if mask.sum() == 0 and (input_class > 0.15).sum() == 0:
+                if mask.sum() == 0 and (input_class > 0.25).sum() == 0:
                     continue
 
                 distance = (mask - input_class).abs()

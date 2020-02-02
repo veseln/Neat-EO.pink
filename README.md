@@ -1,3 +1,5 @@
+<a href="https://twitter.com/neat_eo"><img src="https://img.shields.io/badge/Follow-neat_eo-ff69b4.svg" /></a>
+
 <h1 align='center'>Neat-EO.pink</h1>
 <h2 align='center'>Computer Vision framework for GeoSpatial imagery, at scale</h2>
 

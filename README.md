@@ -92,7 +92,7 @@ sudo apt install -y apache2 && sudo ln -s ~ /var/www/html/neo
 ### NOTAS: 
 - Requires: Python 3.6 or 3.7
 - GPU with VRAM >= 8Go is mandatory
-- To test Neat-EO.pink install, launch in a new terminal: `rsp info`
+- To test Neat-EO.pink install, launch in a new terminal: `neo info`
 - If needed, to remove pre-existing Nouveau driver: ```sudo sh -c "echo blacklist nouveau > /etc/modprobe.d/blacklist-nvidia-nouveau.conf && update-initramfs -u && reboot"```
 
 

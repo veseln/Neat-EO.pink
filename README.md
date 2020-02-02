@@ -1,4 +1,4 @@
-<a href="https://twitter.com/neat_eo"><img src="https://img.shields.io/badge/Follow-neat_eo-ff69b4.svg" /></a>
+<a href="https://twitter.com/neat_eo"><img src="https://img.shields.io/badge/Follow-neat_eo-ff69b4.svg" /></a> <a href="https://gitter.im/Neat-EO-pink/community"><img src="https://img.shields.io/gitter/room/Neat-EO-pink/community.svg?color=ff69b4&style=popout" /></a>
 
 <h1 align='center'>Neat-EO.pink</h1>
 <h2 align='center'>Computer Vision framework for GeoSpatial imagery, at scale</h2>

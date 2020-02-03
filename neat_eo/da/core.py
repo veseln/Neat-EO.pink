@@ -17,7 +17,7 @@ def to_tensor(config, ts, image, mask=None, data_augmentation=False, resize=Fals
         assert mask is not None
 
         try:
-            module = import_module("robosat_pink.da.{}".format(config["train"]["da"]["name"].lower()))
+            module = import_module("neat_eo.da.{}".format(config["train"]["da"]["name"].lower()))
         except:
             sys.exit("Unable to load data augmentation module")
 

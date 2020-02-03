@@ -154,17 +154,23 @@ Contributions and Services:
 We've already identified several new features and research papers able to improve again Neat-EO.pink,
 your funding would make a difference to implement them on a coming release:
 
-- Increase (again) prediction accuracy :
+- Increase again accuracy :
   - on low resolution imagery
   - even with few labels (aka Weakly Supervised)
-  - feature extraction when they are (really) close (aka Instance Segmentation)
+  - Topology handling
+  - Instance Segmentation
+  
+- Improve again performances
 
 - Add support for :
-  - Linear features extraction
   - Time Series Imagery
   - StreetView Imagery
+  - MultiHosts scaling
+  - Vectors post-treatments
+  - ...
   
-- Improve (again) performances
+
+
 
 
 
